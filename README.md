@@ -1,2 +1,2 @@
-# Coinkeeper
+# Coin.NET
 Crypto Portfolio Tracker
