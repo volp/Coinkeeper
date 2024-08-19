@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RadDotNet.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ApplicationTitle" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">RadSuite.NET</Value>
+    </Setting>
+    <Setting Name="OpenFileFilter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Rad Project (*.rad)|*.rad|All Data Sources (*.accdb;*.mdb)|*.accdb;*.mdb</Value>
+    </Setting>
+    <Setting Name="SaveAsFileFilter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Rad Project (*.rad)|*.rad|Excel Workbook (*.xlsx)|*.xlsx|Excel 97-2003 Workbook (*.xls)|*.xls|CSV (Comma delimited) (*.csv)|*.csv|Text (Tab delimited) (*.txt)|*.txt|Text (Pipe delimited) (*.txt)|*.txt|All Files (*.*)|*.*</Value>
+    </Setting>
+    <Setting Name="ImportFileFilter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">All Files (*.*)|*.*|Text Files (*.txt;*.csv)|*.txt;*.csv|Excel Workbooks (*.xlsx;*.xls)|*.xlsx;*.xls|Access Databases (*.accdb;*.mdb)|*.accdb;*.mdb</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
